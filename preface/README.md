@@ -4,7 +4,7 @@ Preface
 All human being by nature desire to know by [W.D. Ross](http://classics.mit.edu/Aristotle/metaphysics.html) based on an
 entirely new branh of philosophy
 Knowledge about fundamental particles and interactions, that is, learning about the most profound aspects of the
-matter, is undoubtedly high, if not top, on the priority list, not only for physicists and philosophers..
+matter, is undoubtedly high, if not top, on the priority list, not only for physicists and philosophers.
 ![img.png](img.png)
 Hans Christian Öttinger (HCO) is inspired by the epistemological ideas of Ludwig Boltzmann.
 HCO's goal is to construct a genuine mathematical representation of the real world. He [retited](https://polyphys.mat.ethz.ch/emeritus.html) in January 2023.
@@ -48,4 +48,50 @@ Almost all physicists believe that there is no excellent time direction for the 
 10. [Swiss artist Esther Mathis](https://www.esthermathis.ch/)
 11. [The bubbling vacuum state](https://player.vimeo.com/video/126890602?title=0&byline=0&portrait=0)
 
-HCO relies on philosophical 
+HCO relies on philosophical ideas regarding:
+1. space
+2. time
+3. infinity
+4. irreversibility
+
+Often he relies on successful physical theories, principles or methods, such as
+1. special relatiity
+2. quantum theory
+3. gauge invariance
+4. renormalization
+
+The final image of nature (mathematical representation or theory) should convince by its
+1. intrinsic logical clarity
+2. mathematical rigor
+3. natural beauty
+
+The theory should be confronted with the real world so a personal belief can be justified.
+
+Essential names to remember:
+1. Pierre Duhem: Gibbs-Duhem relation
+2. Analytical philosopher Willard Van Orman Quine: naturalized epistemology
+
+According to the above people, only the whole image should be tested, not its individual elements or hypotheses.
+The following price has to be paid for this intuitive approach toward QFT:
+Practical calculations, particularly perturbation methods, are less elegant and more tedious than other approaches. 
+As a remedy, the author refers to symbolic calculations to reach a modern answer to this challenge.
+A promising reward: a new stochastic simulation methodology for QFT emerges naturally (quantum Monte Carlo).
+
+The whole goal of this book is to simplify the problematic concept of QFT and make it accessible to the public. 
+
+Important names to remember:
+1. (Martin Kröger)[https://www.complexfluids.ethz.ch/cgi-bin/mk]
+2. (Anthony Beris)[https://cbe.udel.edu/people/faculty/beris/]: philosophy
+3. (Jay Schieber)[https://www.iit.edu/directory/people/jay-schieber]: philosophy
+4. (Pep Espanol)[https://www.frias.uni-freiburg.de/de/das-institut/archiv-frias/school-of-softmatter/fellows/espanol]: physics
+5. (Bert Schroer)[https://en.wikipedia.org/wiki/Bert_Schroer]: physics
+6. (Marco Schweizer)[https://c4.ethz.ch/prize/awardees/schweizer.html]: physics
+7. (Vlasis Mavrantzas)[https://www.chemeng.upatras.gr/en/personnel/faculty/53]: physics
+8. (Alberto Montefusco)[https://www.linkedin.com/in/alberto-montefusco-214a17249/?originalSubdomain=de]: physics
+9. (Suzann-Viola Renninger)[https://www.linkedin.com/in/suzann-viola/]: philosophy (course)
+10. (Michael Esfeld)[http://www.michaelesfeld.com]: philosopher
+11. (Simon Friedrich)[https://simonfriederich.eu]: philosopher
+12. (Antonio Augusto Passos Videria)[https://www.escavador.com/sobre/9189250/antonio-augusto-passos-videira]: philosopher
+13. (Bryan W. Roberts)[https://personal.lse.ac.uk/robert49/]: philosopher
+
+I have to say as that it is amazing to see how many Chemical Engineers provided feedback on a deep QFT book in physics.
