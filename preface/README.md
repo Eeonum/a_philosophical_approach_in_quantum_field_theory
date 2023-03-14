@@ -5,6 +5,7 @@ All human being by nature desire to know by [W.D. Ross](http://classics.mit.edu/
 entirely new branh of philosophy
 Knowledge about fundamental particles and interactions, that is, learning about the most profound aspects of the
 matter, is undoubtedly high, if not top, on the priority list, not only for physicists and philosophers.
+![img.png](img.png)
 Hans Christian Öttinger (HCO) is inspired by the epistemological ideas of Ludwig Boltzmann.
 HCO's goal is to construct a genuine mathematical representation of the real world. He [retited](https://polyphys.mat.ethz.ch/emeritus.html) in January 2023.
 HCO is amongst those physicists like Albert Einstein that their principles will pave the way for future discoveries in 
