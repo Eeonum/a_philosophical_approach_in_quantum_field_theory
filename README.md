@@ -1,6 +1,6 @@
 # A Philosophical Approach to Quantum Fileld Theory by Hans Christian Oettinger
 This GitHub repository aims to reproduce the dissipative quantum field theory approach proposed by Hans Christian 
-Oettinger
+Öttinger
 
 The [book](https://polyphys.mat.ethz.ch/publications/books/a-philosophical-approach-to-quantum-field-theory.html) aims
 to combine intuition with robust mathematical image of fundamental particle physics based on the most advanced technique
