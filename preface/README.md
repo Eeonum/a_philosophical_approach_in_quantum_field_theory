@@ -1,6 +1,9 @@
 Preface
 ================================
 
+** Dissipative Quantum Field Theory **
+================================
+
 All human being by nature desire to know by [W.D. Ross](http://classics.mit.edu/Aristotle/metaphysics.html) based on an
 entirely new branh of philosophy
 Knowledge about fundamental particles and interactions, that is, learning about the most profound aspects of the
@@ -42,7 +45,7 @@ Almost all physicists believe that there is no excellent time direction for the 
 6. HCO's motivation to write a book on dissipative quatum field theory is [here](https://hcobooks.blogspot.com/2017/07/is-nature-fundamentally-irreversible.html?spref=fb&fbclid=IwAR1z9KGdMhOTl41F288BeKkBEq7sQQLhaSQ9rgx7NFqjSqM7TNgb8MSECXA)
 7. Other HCO's blog contents include:
    * [Why do I enjoy writing books?](https://hcobooks.blogspot.com/2017/07/why-do-i-enjoy-writing-books_2.html)
-   * [Five METAPHYSICAL POSTULATES for quantum field theory](https://hcobooks.blogspot.com/2017/07/five-metaphysical-postulates-for-quantum.html)
+   * [Five METAPHYSICAL POSTULATES for quantum field theory](https://hcobooks.blogspot.com/2017/07/five-metaphysical-postulates-for.html)
 8. [Jethro Tull - Christmas song](https://youtu.be/BdalBvgNAxI)
 9. [The Big Bang Theory - Season 1 Episode 16](https://youtu.be/n8ghizM7Dto)
 10. [Swiss artist Esther Mathis](https://www.esthermathis.ch/)
@@ -80,18 +83,32 @@ A promising reward: a new stochastic simulation methodology for QFT emerges natu
 The whole goal of this book is to simplify the problematic concept of QFT and make it accessible to the public. 
 
 Important names to remember:
-1. (Martin Kröger)[https://www.complexfluids.ethz.ch/cgi-bin/mk]
-2. (Anthony Beris)[https://cbe.udel.edu/people/faculty/beris/]: philosophy
-3. (Jay Schieber)[https://www.iit.edu/directory/people/jay-schieber]: philosophy
-4. (Pep Espanol)[https://www.frias.uni-freiburg.de/de/das-institut/archiv-frias/school-of-softmatter/fellows/espanol]: physics
-5. (Bert Schroer)[https://en.wikipedia.org/wiki/Bert_Schroer]: physics
-6. (Marco Schweizer)[https://c4.ethz.ch/prize/awardees/schweizer.html]: physics
-7. (Vlasis Mavrantzas)[https://www.chemeng.upatras.gr/en/personnel/faculty/53]: physics
-8. (Alberto Montefusco)[https://www.linkedin.com/in/alberto-montefusco-214a17249/?originalSubdomain=de]: physics
-9. (Suzann-Viola Renninger)[https://www.linkedin.com/in/suzann-viola/]: philosophy (course)
-10. (Michael Esfeld)[http://www.michaelesfeld.com]: philosopher
-11. (Simon Friedrich)[https://simonfriederich.eu]: philosopher
-12. (Antonio Augusto Passos Videria)[https://www.escavador.com/sobre/9189250/antonio-augusto-passos-videira]: philosopher
-13. (Bryan W. Roberts)[https://personal.lse.ac.uk/robert49/]: philosopher
+1. [Martin Kröger][https://www.complexfluids.ethz.ch/cgi-bin/mk]
+2. [Anthony Beris][https://cbe.udel.edu/people/faculty/beris/]: philosophy
+3. [Jay Schieber][https://www.iit.edu/directory/people/jay-schieber]: philosophy
+4. [Pep Espanol][https://www.frias.uni-freiburg.de/de/das-institut/archiv-frias/school-of-softmatter/fellows/espanol]: physics
+5. [Bert Schroer][https://en.wikipedia.org/wiki/Bert_Schroer]: physics
+6. [Marco Schweizer][https://c4.ethz.ch/prize/awardees/schweizer.html]: physics
+7. [Vlasis Mavrantzas][https://www.chemeng.upatras.gr/en/personnel/faculty/53]: physics
+8. [Alberto Montefusco][https://www.linkedin.com/in/alberto-montefusco-214a17249/?originalSubdomain=de]: physics
+9. [Suzann-Viola Renninger][https://www.linkedin.com/in/suzann-viola/]: philosophy (course)
+10. [Michael Esfeld][http://www.michaelesfeld.com]: philosopher
+11. [Simon Friedrich][https://simonfriederich.eu]: philosopher
+12. [Antonio Augusto Passos Videria][https://www.escavador.com/sobre/9189250/antonio-augusto-passos-videira]: philosopher
+13. [Bryan W. Roberts][https://personal.lse.ac.uk/robert49/]: philosopher
 
 I have to say as that it is amazing to see how many Chemical Engineers provided feedback on a deep QFT book in physics.
+
+## Five METAPHYSICAL POSTULATES for quantum field theory
+
+(1) Images of Nature: A mathematical image of nature must be rigorously consistent; mathematical elegance is an integral part of any appealing image of nature.
+
+(2) Space and time: Physical phenomena can be represented by theories IN space and time; they do not require theories OF space and time, so that space and time possess the status of prerequisites for physical theories.
+
+(3) Infinities: All infinities are to be treated as potential infinities; the corresponding limitlessness is to be represented by mathematical limiting procedures; all numerous infinities are to be restricted to countable.
+
+(4) Irreversibility: In quantum field theory, irreversible contributions to the fundamental evolution equations arise naturally and unavoidably.
+
+(5) Reality: The well-entrenched fundamental structural entities of a validated mathematical image of nature are real, even if they cannot be observed directly.
+
+For more details clik [here](https://arxiv.org/abs/1509.09278)
