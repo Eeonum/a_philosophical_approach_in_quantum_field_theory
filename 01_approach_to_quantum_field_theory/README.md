@@ -20,7 +20,7 @@ Section 1.2.1: Further elaboration of the Fock space (tight way)
 ## Content
 
 1. [Philosophical Contemplations](#philosophical-contemplations)
-   * [Image of Nature](#image-of-nature)
+   * [Image of Nature](#images-of-nature)
 
 ## Philosophical Contemplations
 
@@ -33,8 +33,11 @@ This Section includes the following topics:
 - HCO chooses the conscious approach of Henry Margenau in metaphysical principles (that have an essential role in science). But wait! What are the unconscious methods? How can we apply them in developing a modern QFT?
 
 Margenau believes that a theory should be simple, elegant, and acceptable. 
-Simon Altmann distinguishes between metaphysical and meta-physical normative principles. The former are the principles, where the former are berond experience and the latter are directly correlated with experiments (without being derivable from it)
-HCO uses the latter spelling but he means that his metaphysical postulates are grounded in experience.
-Furthermore, HCO believes that both metaphysical poatulates and the evolutions in physics are intertwined, although the former is utilized as a guideline for theory development. This belief is iinitiated from Cao. Eonum and HCO agree on this. 
+Simon Altmann distinguishes between metaphysical and meta-physical normative principles. The former are the principles, where the former are beyond the experience and the latter are directly correlated with experiments (without being derivable from it)
+HCO uses the latter spelling, but he means that his metaphysical postulates are grounded in experience.
+Furthermore, HCO believes that metaphysical postulates and the evolutions in physics are intertwined, although the former is utilized as a guideline for theory development. Cao initiates this belief. Eonum and HCO agree on this. 
 
-### Image of Nature
+
+### Images of Nature
+
+This Section talks about Boltzmann's life and methodology in philosophy and physics. 
