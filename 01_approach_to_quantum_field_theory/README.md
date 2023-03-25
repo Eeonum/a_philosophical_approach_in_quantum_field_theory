@@ -49,8 +49,12 @@ Albert Einstein's famous quote: "Imagination is more important than knowledge. K
 HCO believes that imagination creates knowledge. Eonum believes that theories are themselves quantum (superposition & entanglement) effects because two different theories can exist and be accurate.
 HCO believes in theoretical pluralism, which is different from what Eonum believes. We are more aligned with the ideas of Thomas Kuhn, who stated that "Einstein's theory [of gravity] can be accepted only with the recognition that Newton's was wrong."
 Democratizing ideas means there would be crowd competition held by wealthy corporations and choosing the best picture amongst them. While it is based on the law of big numbers, there are more natural ways of approaching a good solution. There has to be yet another way of developing the best theories.
-Which is hidden unconsciously (metaphysical treatment postulates). HCO believes that the various mages of nature should compete in a Darwinistic sense, which contradicts how Eonum Inc views approaching the problem. Darwinism is based on competition, and Eonum emphasizes collaboration. The view of being open-minded or the Darwinism approach will result in excluding the losing theories. We aim to include the losing ideas and convert them into winning ones. This takes time, but the community will soon see the impact of inclusion by educating critical thinking, the shapers, and the functional skills to their followers.
-Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly ecist at all: they are all processed by us through a network of theoretical constructs"
+Which is hidden unconsciously (metaphysical treatment postulates). HCO believes that the various mages of nature should compete in a Darwinistic sense, which contradicts how Eonum Inc views approaching the problem. Darwinism is based on competition, and Eonum emphasizes collaboration. The view of being open-minded or the Darwinism approach will result in excluding the losing theories. We aim to include the losing ideas and convert them into winning ones. This takes time, but the community will soon see the impact of inclusion by educating critical thinking, the shapers, and the functional skills of their followers.
+Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all: they are all processed by us through a network of theoretical constructs."
 
 - **On the Fundamental Principles and Equations of Mechanics**
-- 
+  * HCO & Boltzmann believe that clarity and consistency of a mathematical image of nature are most important.
+  * In the context of QFT, mathematical consistency is crucial.
+  * According to Feynman, renormalization group theories are not the way to go with QFT. However, modern renormalization group theory might be the answer.
+  * First Metaphysical Postulate: HCO says, "A mathematical image of nature must be rigorously consistent. Mathematical elegance is an integral part of any appealing image of nature."
+  * The reliability and truth of theories rely on the
