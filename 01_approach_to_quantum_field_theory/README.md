@@ -57,4 +57,18 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
   * In the context of QFT, mathematical consistency is crucial.
   * According to Feynman, renormalization group theories are not the way to go with QFT. However, modern renormalization group theory might be the answer.
   * First Metaphysical Postulate: HCO says, "A mathematical image of nature must be rigorously consistent. Mathematical elegance is an integral part of any appealing image of nature."
-  * The reliability and truth of theories rely on the
+  * The reliability and truth of theories rely on the "uniformity of nature": the succession of natural events is determined by immutable laws.
+  * HCO refers to Dworkin and states that "the intrinsic beauty and sublimity of the universe belong to the characteristic of a religion without a god and continues by saying that with or without (a personalized) god, these properties of the universe should be reflected in the elegance of the mathematical image. Eonum Inc believes that without a God, beauty seizes to exist.
+  * HCO's 1st mathematical postulate covers several of the six metaphysical requirements formulated by Margenau:
+  * (a) logical fertility ("natural science is joined with logic via mathematics")
+  * (b) multiple connections between constructs
+  * (c) permanence and stability: where permanence extends over the lifetime of a theory
+  * (d) extensibility of constructs: "no special laws for the special physical domain."
+  * (e) causality: "constructs shall be chosen as to _generate causal laws_."
+  * (f) simplicity & elegance
+  * Note that causality is missing from the HCO's 1st metaphysical postulate
+  * Bertrand Russel: "The law of causality, I believe, like much that passes muster among philosophers, is a relic of a bygone age, surviving, like the monarchy, only because it is erroneously supposed not to harm.” If introduced carefully, the principle of causality can still be helpful."
+  * HCO incorporates casualty by implicitly assuming that mathematical images for dynamic systems provide autonomous time-evolution equations, thus emphasizing that causality cannot be judged from a partial view of a system. However, he needs to formulate independent time evolution as a metaphysical postulate because critical physical theories, such as equilibrium thermodynamics, may not describe any time evolution.
+
+
+

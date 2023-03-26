@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/a_philosophical_approach_in_quantum_field_theory.iml" filepath="$PROJECT_DIR$/.idea/a_philosophical_approach_in_quantum_field_theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine-learning-for-trading/.idea/machine-learning-for-trading.iml" filepath="$PROJECT_DIR$/../machine-learning-for-trading/.idea/machine-learning-for-trading.iml" />
     </modules>
   </component>
 </project>
