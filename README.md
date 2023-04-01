@@ -17,3 +17,4 @@ here is a new stochastic simulation technique in QFT which is complimentary to t
 </a>
 </p>
 
+![img.png](img.png)![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png)![img_4.png](img_4.png)
