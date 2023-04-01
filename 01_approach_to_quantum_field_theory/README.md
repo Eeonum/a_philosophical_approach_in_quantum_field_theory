@@ -20,7 +20,8 @@ Section 1.2.1: Further elaboration of the Fock space (tight way)
 ## Content
 
 1. [Philosophical Contemplations](#philosophical-contemplations)
-   * [Image of Nature](#images-of-nature)
+   * [Images of Nature](#images-of-nature)
+   * [Space and Time](#space-and-time)
 
 ## Philosophical Contemplations
 
@@ -70,5 +71,23 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
   * Bertrand Russel: "The law of causality, I believe, like much that passes muster among philosophers, is a relic of a bygone age, surviving, like the monarchy, only because it is erroneously supposed not to harm.” If introduced carefully, the principle of causality can still be helpful."
   * HCO incorporates casualty by implicitly assuming that mathematical images for dynamic systems provide autonomous time-evolution equations, thus emphasizing that causality cannot be judged from a partial view of a system. However, he needs to formulate independent time evolution as a metaphysical postulate because critical physical theories, such as equilibrium thermodynamics, may not describe any time evolution.
 
+### Space and Time
 
-
+- HCO was irritated as a student when cosmologists wrote about several cosmogonic epochs in the first 10^-32 sec of the universe.
+- He believes there was no precise measurement at that point, so it is pointless to say precisely what happened.
+- He states that if many events happened briefly, shouldn't we introduce a nonlinear function of time, a proper time "felt by the universe" in which cosmological events happen more uniformly?
+- Human feels that time passes faster with the increase in age.
+- We are used to all appearances happening in space and time. What about the appearance of space and time? How shall we imagine them?
+- Similar questions about space & time have been asked by physicists and philosophers even before the Big Bang theory.
+- Immanuel Kant:
+  - Professor of logic & metaphysics
+  - His application for this position failed in 1758
+  - He rejected a chair for the art of poetry: This shows his admirable determination and persistence towards a subject he loves.
+  - Kant's first philosophical publication at 22, _Thoughts on the True Estimation of Living Forces_ "I have already scribed the path I want to follow. I will line up for this race, and nothing shall stop me from continuing it."
+  - Money and fame were barriers in Kant's path, and he consistently rejected them.
+  - Like me, Kant loved living in a small town near water and had a very organized daily routine.
+  - Kant was a talented speaker with sublime thoughts and a natural sense of humor.
+  - King Friedrich Wilhelm II ordered Kant not to write about religious subjects.
+  - Kant's book Critik der reinen Vernunft is one of the most influential milestones in philosophy.
+  - Kan't _opus magnum_: _Critique of Pure Reason_ or even better: "a critical analysis of the capacity of mere reasoning, that is, independent of all practical experience."
+  - The first part of Kant's epistemological work is called _Transcendental Aesthetic_ which is dedicated to space & time.
