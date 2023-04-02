@@ -91,3 +91,17 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
   - Kant's book Critik der reinen Vernunft is one of the most influential milestones in philosophy.
   - Kan't _opus magnum_: _Critique of Pure Reason_ or even better: "a critical analysis of the capacity of mere reasoning, that is, independent of all practical experience."
   - The first part of Kant's epistemological work is called _Transcendental Aesthetic_ which is dedicated to space & time.
+  - Eonum Inc needs to distinguish itself from its previous thinkers. Kant competed with Gottfried Wilhelm Leibniz (1646-1716), Isaac Newton (1643-1727), John Locke (1632-1704), Samuel Clarke (1675-1729), George Berkeley (1685-1753), etc.
+  - Kant's postulate about space & time: space & time should not be imagined as empirical concepts derived from any external experience. (p. 23, p. 30)
+  - Kant mentions that the perception of space & time instead resides with us. Eonum Inc agrees with time, but the space could be understood through external experiences.
+  - Kant believes that we have an immediate intuitive view of space and time, an a priori intuition.
+  - Kant claims that space & time are not properties of things (p. 26), but Eonum Inc believes they are abstracted from gravity.
+  Kant calls his philosophical approach _transcendental idealism_, where idealism states that reality is rooted in the mind and that ethereal indicates that we are not dealing with things.
+  - Kant's space justification: If the perception of space is about something outside us, it would be separated from us in length, and the sought-after representation of space is a prerequisite. (p. 23)
+  - Time's justification: Without a priori representation of time, we cannot perceive things happening simultaneously or sequentially in time (p. 30).
+  - A priori & transcendental nature of time: One can remove everything from space until nothing is left (empty space): which is nothing, but one cannot perceive any space (why?)
+  - Also, one can remove all appearances and events from time but cannot annihilate time itself (p. 31).
+  - In Kant's time, both space & time were "causally inert"; therefore, they are considered imperceptive or inaccessible to direct experience (experiment).
+  - Space & time are both singular (in the sense of one-of-a-kind (p. 25)) and infinite in a sense that Kant analyses in some detail.
+  - A critical property of space & time is their infinity.
+  - Kant believes that the a priori nature of space depends on the certainty of geometry (Euclidean geometry)
