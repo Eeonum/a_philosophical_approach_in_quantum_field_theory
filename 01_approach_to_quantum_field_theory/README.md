@@ -80,28 +80,41 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - We are used to all appearances happening in space and time. What about the appearance of space and time? How shall we imagine them?
 - Similar questions about space & time have been asked by physicists and philosophers even before the Big Bang theory.
 - Immanuel Kant:
-  - Professor of logic & metaphysics
-  - His application for this position failed in 1758
-  - He rejected a chair for the art of poetry: This shows his admirable determination and persistence towards a subject he loves.
-  - Kant's first philosophical publication at 22, _Thoughts on the True Estimation of Living Forces_ "I have already scribed the path I want to follow. I will line up for this race, and nothing shall stop me from continuing it."
-  - Money and fame were barriers in Kant's path, and he consistently rejected them.
-  - Like me, Kant loved living in a small town near water and had a very organized daily routine.
-  - Kant was a talented speaker with sublime thoughts and a natural sense of humor.
-  - King Friedrich Wilhelm II ordered Kant not to write about religious subjects.
-  - Kant's book Critik der reinen Vernunft is one of the most influential milestones in philosophy.
-  - Kan't _opus magnum_: _Critique of Pure Reason_ or even better: "a critical analysis of the capacity of mere reasoning, that is, independent of all practical experience."
-  - The first part of Kant's epistemological work is called _Transcendental Aesthetic_ which is dedicated to space & time.
-  - Eonum Inc needs to distinguish itself from its previous thinkers. Kant competed with Gottfried Wilhelm Leibniz (1646-1716), Isaac Newton (1643-1727), John Locke (1632-1704), Samuel Clarke (1675-1729), George Berkeley (1685-1753), etc.
-  - Kant's postulate about space & time: space & time should not be imagined as empirical concepts derived from any external experience. (p. 23, p. 30)
-  - Kant mentions that the perception of space & time instead resides with us. Eonum Inc agrees with time, but the space could be understood through external experiences.
-  - Kant believes that we have an immediate intuitive view of space and time, an a priori intuition.
-  - Kant claims that space & time are not properties of things (p. 26), but Eonum Inc believes they are abstracted from gravity.
-  Kant calls his philosophical approach _transcendental idealism_, where idealism states that reality is rooted in the mind and that ethereal indicates that we are not dealing with things.
-  - Kant's space justification: If the perception of space is about something outside us, it would be separated from us in length, and the sought-after representation of space is a prerequisite. (p. 23)
-  - Time's justification: Without a priori representation of time, we cannot perceive things happening simultaneously or sequentially in time (p. 30).
-  - A priori & transcendental nature of time: One can remove everything from space until nothing is left (empty space): which is nothing, but one cannot perceive any space (why?)
-  - Also, one can remove all appearances and events from time but cannot annihilate time itself (p. 31).
-  - In Kant's time, both space & time were "causally inert"; therefore, they are considered imperceptive or inaccessible to direct experience (experiment).
-  - Space & time are both singular (in the sense of one-of-a-kind (p. 25)) and infinite in a sense that Kant analyses in some detail.
-  - A critical property of space & time is their infinity.
-  - Kant believes that the a priori nature of space depends on the certainty of geometry (Euclidean geometry)
+ - Professor of logic & metaphysics
+- His application for this position failed in 1758
+- He rejected a chair for the art of poetry: This shows his admirable determination and persistence towards a subject he loves.
+- Kant's first philosophical publication at 22, _Thoughts on the True Estimation of Living Forces_ "I have already scribed the path I want to follow. I will line up for this race, and nothing shall stop me from continuing it."
+- Money and fame were barriers in Kant's path, and he consistently rejected them.
+- Like me, Kant loved living in a small town near water and had a very organized daily routine.
+- Kant was a talented speaker with sublime thoughts and a natural sense of humor.
+- King Friedrich Wilhelm II ordered Kant not to write about religious subjects.
+- Kant's book Critik der reinen Vernunft is one of the most influential milestones in philosophy.
+- Kan't _opus magnum_: _Critique of Pure Reason_ or even better: "a critical analysis of the capacity of mere reasoning, that is, independent of all practical experience."
+- The first part of Kant's epistemological work is called _Transcendental Aesthetic_ which is dedicated to space & time.
+- Eonum Inc needs to distinguish itself from its previous thinkers. Kant competed with Gottfried Wilhelm Leibniz (1646-1716), Isaac Newton (1643-1727), John Locke (1632-1704), Samuel Clarke (1675-1729), George Berkeley (1685-1753), etc.
+- Kant's postulate about space & time: space & time should not be imagined as empirical concepts derived from any external experience. (p. 23, p. 30)
+- Kant mentions that the perception of space & time instead resides with us. Eonum Inc agrees with time, but the space could be understood through external experiences.
+- Kant believes that we have an immediate intuitive view of space and time, an a priori intuition.
+- Kant claims that space & time are not properties of things (p. 26), but Eonum Inc believes they are abstracted from gravity. 
+- Kant calls his philosophical approach _transcendental idealism_, where idealism states that reality is rooted in mind and that ethereal indicates that we are not dealing with things.
+- Kant's space justification: If the perception of space is about something outside us, it would be separated from us in length, and the sought-after representation of space is a prerequisite. (p. 23)
+- Time's justification: Without a priori representation of time, we cannot perceive things happening simultaneously or sequentially in time (p. 30).
+- A priori & transcendental nature of time: One can remove everything from space until nothing is left (empty space): which is nothing, but one cannot perceive any space (why?)
+- Also, one can remove all appearances and events from time but cannot annihilate time itself (p. 31).
+- In Kant's time, both space & time were "causally inert"; therefore, they are considered imperceptive or inaccessible to direct experience (experiment).
+- Space & time are both singular (in the sense of one-of-a-kind (p. 25)) and infinite in a sense that Kant analyses in some detail.
+- A critical property of space & time is their infinity.
+- Kant believes that the a priori nature of space depends on the certainty of geometry (Euclidean geometry, p. 24, p. 732)
+- Euclidean geometry inherits the a priori one-of-a-kind status of space and hence is a prototypical example for theorems of apodictic certainty.
+- Kant treats space & time in a parallel fashion (p. 41) because they are both needed to describe motion, and nothing is like them.
+- Large Hydron Collider (LHC): energy measurements by calorimeters and tracks are in a magnetic field.
+- ![img.png](img.png)
+- Auyang (cf. p. 170 of [24]): _"The primitive spatiotemporal structure is permanent; it is independent of temporal concepts._
+- Kant's philosophical ideas about space & time are obsolete because they contradict Einstein's theory of gravity or general relativity.
+- HCO believes that the situation could be more precise in the broader sense. "_Even in the presence of gravity, an a priori space-time could exist in a topological sense; gravity as a physical theory would then merely introduce geometric structure into this a priori topological space-time. Only the measurability of space and time would no longer be a priori._"
+- Max von Laue [27]
+- Alternatively, HCO assigns a priori character to the Minkowski space-time of special relativity. Gravity is introduced as a gauge theory expressing the physical irrelevance of the particular choice of local coordinate systems in Minkowski space. Cf. Lasenby, Doran, and Gull [28].
+- The group of inhomogeneous Lorentz transformations, including translations, is an irreducible representation group as classified by Wigner [29], which is a correction to Dirac and Majorana.
+- Wigner's representation theory: particles can be classified according to mass and spin, assigning a special role to these properties. (m > 0, s > 0, s = 0, 1, 1/2, etc)
+- In HCO's methodology, spin and masses are the fundamental particles.
+
