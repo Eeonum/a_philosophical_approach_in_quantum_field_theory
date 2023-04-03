@@ -22,6 +22,7 @@ Section 1.2.1: Further elaboration of the Fock space (tight way)
 1. [Philosophical Contemplations](#philosophical-contemplations)
    * [Images of Nature](#images-of-nature)
    * [Space and Time](#space-and-time)
+   * [Infinity](#infinity)
 
 ## Philosophical Contemplations
 
@@ -130,3 +131,4 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - "These additional spaces on the same footing as Kant’s space and time? Do we have an a priori representation of these spaces, or do they rather possess the status of constructs? Are certain interactions providing geometric structure to these additional spaces? The gauge theories for weak and strong interactions introduce geometry into the weak isospin and color spaces. The geometric interpretation of the gauge theories for all fundamental interactions has been elaborated in section 11.3 of [22]."
 - "In the context of quantum field theory, a serious problem arises from Kant’s assertion that space and time are infinite. Infinity is an inherent philosophical problem, which we must address in the subsequent section to reveal the distinction between actual and potential infinity and the resulting fundamental importance assigned to limiting procedures."
 
+### Infinity
