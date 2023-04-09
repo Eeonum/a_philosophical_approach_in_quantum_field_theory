@@ -132,3 +132,16 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - "In the context of quantum field theory, a serious problem arises from Kant’s assertion that space and time are infinite. Infinity is an inherent philosophical problem, which we must address in the subsequent section to reveal the distinction between actual and potential infinity and the resulting fundamental importance assigned to limiting procedures."
 
 ### Infinity
+
+- Euclid: "The (set of all) prime numbers is more numerous than any assigned multitude of prime numbers."
+- Euclid avoids the term infinity: cf. https://farside.ph.utexas.edu/books/Euclid/Euclid.html
+- Aristotle has tried to distinguish between actual (permanent infinity), and potential infinity (coming to be like time).
+- Only the "potential infinity" was conceived to be meaningful.
+- Euclid: potential infinity is a never-ending process in time.
+- Bernard Bolzano (1851), Richard Dedekind (1888), and George Cantor (1891) established the foundation of actual infinity, including the classical different levels of infinity.
+- HCO: "In field theories, one or several degrees of freedom is associated with each point of space." (infinite according to Kant)
+- HCO: "The collection of all degrees of freedom has the cardinality of the continuum."
+- Can we handle such a large drgree of freedom? (from mathematical & philosophical points of view). We need to focus on smaller cardinality of the set of natural numbers."
+- HCO: "The number of degrees of freedom should, at most, be countably infinite, that is, of the cardinality of the integers rather than the cardinality of the continuum.
+- Probability theory: infinities are countable according to Kolmogorov (1933).
+
