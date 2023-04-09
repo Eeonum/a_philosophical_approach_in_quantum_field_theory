@@ -144,4 +144,22 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - Can we handle such a large drgree of freedom? (from mathematical & philosophical points of view). We need to focus on smaller cardinality of the set of natural numbers."
 - HCO: "The number of degrees of freedom should, at most, be countably infinite, that is, of the cardinality of the integers rather than the cardinality of the continuum.
 - Probability theory: infinities are countable according to Kolmogorov (1933).
+- HCO: "In measure theory, the measurement of a countably infinite number of disjoint measurable subsets can be added up to the measure of the full set obtained as the countable union of the subsets, but not for an uncountable union of subsets."
+- The concept of separability treats stochastic processes with continuous time evolution by assuming limited numbers for the degree of freedom.
+- The concept of separability is introduced by von Neumann for limiting the dimensionality of the arena for quantum mechanics, called Hilbert space, where the number of basis vectors have to be countably infinite or limited to finite.
+- In HCO's development of QFT, the number of degrees of freedom remains countable at any stage by using Fock spaces, which are based on occupation numbers for the possible quantum states of a single particle, as the basic arena.
+- Concerns regarding infinities of various kinds are addressed through the philosophical horror infinitatis.
+- Kant's space is very concerning (horror infinitatis). 
+- In QFT development, HCO considers large finite volumes together with a limiting procedure.
+- Mathematical image: position space to its dual Fourier space. The finite volume of position space pertains to the discreteness and therefore countability of Fourier space.
+- HCO imposes the finite size of Fourier space, that coresponds to eliminating small-scale features in position space, and introduce an associated limiting procedure. This will result in the appearance of irreversibility.
+- QFT
+	* The number of degrees of freedom: infinitely numerous.
+	* The volume of space: infinitely large
+	* Position spacwe & associated Fourier space: the dual aspect of infinitely divisible. 
+	* Infinitely small: the size of fundamental particles
+   * Infinitely large: vales of the divergent integrals: the assumption of point particles in QFT: According to the first metaphysical postulate, any artificial or subtle treatment of divergencies should be prevengted. ("handling of infinities" is a key issue in QFT)
+- Third Metaphysical Postulate:
+	* All infinities are to be treated as potential infinities; the corresponding limitlessness is to be represented by mathematical limiting procedures; all numerous infinities are to be restricted to countable.
+
 
