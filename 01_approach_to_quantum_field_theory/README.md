@@ -161,5 +161,11 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
    * Infinitely large: vales of the divergent integrals: the assumption of point particles in QFT: According to the first metaphysical postulate, any artificial or subtle treatment of divergencies should be prevengted. ("handling of infinities" is a key issue in QFT)
 - Third Metaphysical Postulate:
 	* All infinities are to be treated as potential infinities; the corresponding limitlessness is to be represented by mathematical limiting procedures; all numerous infinities are to be restricted to countable.
+   * HCO introduced 4 different types of limiting procedures:
+		1. Thermodynamic limit: A finite # of momentum states of a quantum particle is considered. The thermodynamic limit of an infinite nymber of degrees of freedom needs to be analyzed in such a way that critical behavior & symmetry breaking can be acknowledged.
+		2. Limit of infinite volume: HCO considers a finite volume. This assumption offers a large characteristic length scale & infrared regularization, while making the problem of boundary conditions more acute. In the limit of infinite volume, sums are replaced by integrals.
+		3. Limit of vanishing dissipation: HCO introduced a dissipative smoothing mechanism which offers ultraviolet regularization, even in the thermodynamic limit. Hence, the corresponding friction parameter is related to a small characteristic length scale & needs to approach to zero.
+		4. Zero-temperature limit: HCO considered the dissipative evolution equation at finite temperature, so that rigorous statements about a long-term approach to equilibrium can be made, i.e., imn the limit of zero temperature.
+
 
 
