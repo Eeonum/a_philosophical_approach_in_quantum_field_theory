@@ -175,8 +175,11 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - Nature works with large but finite # of degrees of freedome (O(10^23)). Hence, in statistical mechanics, the thermodynamic limit is an idealization.
 - Note that the field idealization is a bold idealization, as it presumes that properties can vary from point to point in space & time even on infinitesimally small scales (Planck). 
 - Field theoretic approach to hydrodynamics: limits: micrometers (gases), nanometers (liquids). QFT: Planck length (10^-35 m): 3 fundamental physical constants: 1. the speed of light, 2. Planck constant, 3. the gravitational constant
-- Important questions HCO asks from the QFT community:
+- HCO questions for the QFT community:
+	* Why the theory of fundamental particles formulated in an infinitely large volume if the entire universe has a finite volume and a finite age?
+	* Why do they insist on a theory of electroweak & strong interactions down to infinitely small scales if they expect that there is a lower limit at the Planck length?
 	* 
+
 - 
 
 
