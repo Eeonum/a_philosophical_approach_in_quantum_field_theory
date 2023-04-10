@@ -166,6 +166,17 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 		2. Limit of infinite volume: HCO considers a finite volume. This assumption offers a large characteristic length scale & infrared regularization, while making the problem of boundary conditions more acute. In the limit of infinite volume, sums are replaced by integrals.
 		3. Limit of vanishing dissipation: HCO introduced a dissipative smoothing mechanism which offers ultraviolet regularization, even in the thermodynamic limit. Hence, the corresponding friction parameter is related to a small characteristic length scale & needs to approach to zero.
 		4. Zero-temperature limit: HCO considered the dissipative evolution equation at finite temperature, so that rigorous statements about a long-term approach to equilibrium can be made, i.e., in the limit of zero temperature.
-
+- In field theories, a continuum of degrees of freedom, derivtives in the evolution equations for the fields and integrals in their solutions is expected.
+- These expectations (idealizations) will be fulfilled via the final limiting procedures.
+- Differentiations & integrations are defined in terms of limiting procedures and all limits are postponed (to avoid singularities & paradoxes and to conford with the 3rd metaphysical postulate) to the end of calculation (sums are more difficult to evaluate than integrals).
+- An infinite # of momentum states is considered as a hallmark of field theories.
+- Computer simulation for analyzing critical behavior in statistical mechanics implements extrapolation from to infinite system successfully.
+- It is supported by finite-size scaling theory based on renormalization group methodologies.
+- Nature works with large but finite # of degrees of freedome (O(10^23)). Hence, in statistical mechanics, the thermodynamic limit is an idealization.
+- Note that the field idealization is a bold idealization, as it presumes that properties can vary from point to point in space & time even on infinitesimally small scales (Planck). 
+- Field theoretic approach to hydrodynamics: limits: micrometers (gases), nanometers (liquids). QFT: Planck length (10^-35 m): 3 fundamental physical constants: 1. the speed of light, 2. Planck constant, 3. the gravitational constant
+- Important questions HCO asks from the QFT community:
+	* 
+- 
 
 
