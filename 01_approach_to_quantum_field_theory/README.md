@@ -178,7 +178,7 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - HCO questions for the QFT community:
 	* Why the theory of fundamental particles formulated in an infinitely large volume if the entire universe has a finite volume and a finite age?
 	* Why do they insist on a theory of electroweak & strong interactions down to infinitely small scales if they expect that there is a lower limit at the Planck length?
-	* 
+	* Insisting 
 
 - 
 
