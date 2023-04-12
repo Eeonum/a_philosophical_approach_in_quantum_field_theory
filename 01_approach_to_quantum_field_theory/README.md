@@ -1,14 +1,14 @@
 # 1 Approach to Quantum Field Theory
 
-HCO clarifies the relationship b/w "fundamental particle physics" & "quantum field theory".
+HCO clarifies the relationship b/w "fundamental particle physics" & "quantum field theory."
     The first chapter includes:
-         1. a number of philosophical contemplatations
+         1. several philosophical contemplations
          2. a discussion of mathematical & physical elements
 
-The beauty of the entire approach is a fruit of the intimate relationship b/w QFT and philosophy. The knowledge of linear
+The beauty of the entire approach is a fruit of the intimate relationship b/w QFT and philosophy. Knowledge of linear
 algebra and quantum mechanics is required. Note that Khrennikov mentioned since quantum probabilities are based on linear
 algebra, they are much simpler for the application of quantum simulation & quantum computation. This is the subject of a 
-a more exciting topic in Quantum Measurement Problems, Carbon Capture, Mental Health, Quantum Brownian Motors, and
+more exciting topic in Quantum Measurement Problems, Carbon Capture, Mental Health, Quantum Brownian Motors, and
 Quantum Gravity.
 Section 1.1: Complex vector spaces, Hilbert space vectors, and density matrices for describing quantum systems, bosons 
 and fermions, canonical commutation relations, Heisenberg's uncertainty relation, the Schrödinger and Heisenberg pictures
