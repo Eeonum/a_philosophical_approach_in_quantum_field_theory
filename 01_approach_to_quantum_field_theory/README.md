@@ -181,8 +181,25 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 	* Insisting on such actual infinities leads to self-imposed mathematical difficulties.
 	* Achieving exact symmetries is questionable due to the approximate nature of symmetries.
 	* HCO relies on the limiting procedures associated with potential infinities to preclude all self-imposed problems and focus on the exciting physical challenges of quantum theory in general and QFT in particular.
-	* 
 
-- 
+### Irreversibility
 
+- The empty state introduced by Kant is known as the vacuum state nowadays.
+- In QFT, electron-positron pairs & other particle-antiparticle pairs can spontaneously appear for a short time & then disappear (e.g., together with a photon via electromagnetic interactions).
+- Auyang: "The vacuum is bubbling with quantum energy fluctuation & doesn't answer to the notion of empty space (of Kant). ..."
+- The "where" & "when" of annihilation of the electron-positron pair in unknown but the faster it takes place, the larger is the # of events due to a larger range of energies of the electron & the positron according to Heisenberg's uncertainty relation.
+- In quantum mechanics, time is not treated as an operator. As a result, the interpretation of Heisenberg's time-energy uncertainty relation is complex. A comprehensive explanation and derivation can be found in [38], which suggests that the uncertainty in a quantum system's energy is linked to a corresponding uncertainty in the environment's energy.
+- The rapid and frequent occurrences of events on a minuscule length and time scale are evidently uncontrollable by any experimenter.
+- It is crucial to acknowledge that the absence of mechanistic control over vacuum fluctuations is a natural cause of irreversible behavior.
+- Nonequilibrium thermodynamics [39] views unmanageable rapid processes as fluctuations, which inevitably lead to dissipation, irreversibility, and decoherence.
+- As it is impossible to govern processes on extremely minuscule length and time scales, irreversibility must be recognized as an inherent characteristic of QFTs (quantum field theories).
+- 4th Metaphysical Postulate:
+	* In QFT, irreversible contributions to the fundamental evolution equations arise naturally & unavoidably.
+- The fourth metaphysical postulate results in a significant deviation from conventional methods of QFT.
+- HCO approach abandons the notion that a fundamental theory of particles and interactions must be in Hamiltonian form or reversible.
+- HCO now operates with a quantum master equation for a density matrix instead of the Schroedinger equation for a Hilbert space vector.
+
+#### Autonomous Time Evolution
+
+ 
 
