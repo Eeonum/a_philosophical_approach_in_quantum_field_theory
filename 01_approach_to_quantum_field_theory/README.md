@@ -201,5 +201,11 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 
 #### Autonomous Time Evolution
 
+- The HCO approach aims to portray the dynamic behavior of a system of interest using a time-evolution equation.
+- To be more specific, his goal is to determine a set of variables that permit the formulation of a closed set of evolution equations without requiring external functions of time.
+- Equations or systems of equations that meet this criterion are referred to as autonomous.
+- Autonomous equations encapsulate the predictive capabilities of a theory.
+- The fundamental task in creating a mathematical representation of nature is to search for appropriate variables and autonomous evolution equations.
+- 
  
 
