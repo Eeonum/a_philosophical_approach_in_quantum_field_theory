@@ -257,6 +257,10 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 
 #### Causality
 
+- Let's examine a reversible autonomous evolution equation, where the knowledge of the system's state at any given time t allows us to determine its state at any time prior or subsequent to t. To effectively utilize the autonomous evolution and obtain states in both the past and future, it is critical to possess a complete understanding of the system's state at time t. This perfect symmetry in time is a notable finding.
+- In the previously mentioned scenario, the state at time t can be deemed as the cause, and the evolved state at an earlier or later time can be considered as the effect. Causality operates seamlessly in both temporal directions, aligning with the principles outlined in [41]. Nonetheless, the symmetry observed is an attribute of the autonomous evolution equation and not of time itself. The level of depiction that permits autonomous equations dictates what complete knowledge at a specific time signifies. When knowledge is incomplete, discussing causality appears to be futile. This seemingly trivial observation lies at the crux of numerous philosophical debates regarding causality. In the context of reversible systems with autonomous evolution equations, the discourse on causality becomes almost effortless.
+- When considering irreversible autonomous systems, the situation is markedly different. They are well-suited for making predictions in the forward direction, where the direction of evolution is predetermined. However, when attempting to make predictions in the backward direction, practical or even fundamental difficulties arise. This is because one would need to reconstruct details related to fast degrees of freedom that relax exponentially in the forward time direction. Removing details is significantly simpler than reconstructing them, leading to the origin of the thermodynamic arrow of time. In the case of irreversible systems, having complete knowledge is still critical for examining causality. However, given the existence of an arrow of time, it is natural to say that the cause precedes the effect.
+
 
  
 
