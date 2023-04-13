@@ -8,7 +8,7 @@ HCO clarifies the relationship b/w "fundamental particle physics" & "quantum fie
 The beauty of the entire approach is a fruit of the intimate relationship b/w QFT and philosophy. Knowledge of linear
 algebra and quantum mechanics is required. Note that Khrennikov mentioned since quantum probabilities are based on linear
 algebra, they are much simpler for the application of quantum simulation & quantum computation. This is the subject of a 
-more exciting topic in Quantum Measurement Problems, Carbon Capture, Mental Health, Quantum Brownian Motors, and
+more exciting topics in Quantum Measurement Problems, Carbon Capture, Mental Health, Quantum Brownian Motors, and
 Quantum Gravity.
 Section 1.1: Complex vector spaces, Hilbert space vectors, and density matrices for describing quantum systems, bosons 
 and fermions, canonical commutation relations, Heisenberg's uncertainty relation, the Schrödinger and Heisenberg pictures
