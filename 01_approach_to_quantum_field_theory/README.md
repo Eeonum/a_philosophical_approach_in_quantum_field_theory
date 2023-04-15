@@ -60,7 +60,7 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
   * According to Feynman, renormalization group theories are not the way to go with QFT. However, modern renormalization group theory might be the answer.
   * First Metaphysical Postulate: HCO says, "A mathematical image of nature must be rigorously consistent. Mathematical elegance is an integral part of any appealing image of nature."
   * The reliability and truth of theories rely on the "uniformity of nature": the succession of natural events is determined by immutable laws.
-  * HCO refers to Dworkin and states that "the intrinsic beauty and sublimity of the universe belong to the characteristic of a religion without a god and continues by saying that with or without (a personalized) god, these properties of the universe should be reflected in the elegance of the mathematical image. Eonum Inc believes that without a God, beauty seizes to exist.
+  * HCO refers to Dworkin and states that "the intrinsic beauty and sublimity of the universe belong to the characteristic of a religion without a god and continues by saying that with or without (a personalized) god, these properties of the universe should be reflected in the elegance of the mathematical image. Eonum Inc believes that without an "unlimate Light", beauty seizes to exist.
   * HCO's 1st mathematical postulate covers several of the six metaphysical requirements formulated by Margenau:
   * (a) logical fertility ("natural science is joined with logic via mathematics")
   * (b) multiple connections between constructs
@@ -261,6 +261,9 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - In the previously mentioned scenario, the state at time t can be deemed as the cause, and the evolved state at an earlier or later time can be considered as the effect. Causality operates seamlessly in both temporal directions, aligning with the principles outlined in [41]. Nonetheless, the symmetry observed is an attribute of the autonomous evolution equation and not of time itself. The level of depiction that permits autonomous equations dictates what complete knowledge at a specific time signifies. When knowledge is incomplete, discussing causality appears to be futile. This seemingly trivial observation lies at the crux of numerous philosophical debates regarding causality. In the context of reversible systems with autonomous evolution equations, the discourse on causality becomes almost effortless.
 - When considering irreversible autonomous systems, the situation is markedly different. They are well-suited for making predictions in the forward direction, where the direction of evolution is predetermined. However, when attempting to make predictions in the backward direction, practical or even fundamental difficulties arise. This is because one would need to reconstruct details related to fast degrees of freedom that relax exponentially in the forward time direction. Removing details is significantly simpler than reconstructing them, leading to the origin of the thermodynamic arrow of time. In the case of irreversible systems, having complete knowledge is still critical for examining causality. However, given the existence of an arrow of time, it is natural to say that the cause precedes the effect.
 
+#### Relation to Previous Work
+
+- 
 
  
 
