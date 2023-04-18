@@ -23,6 +23,21 @@ Section 1.2.1: Further elaboration of the Fock space (tight way)
    * [Images of Nature](#images-of-nature)
    * [Space and Time](#space-and-time)
    * [Infinity](#infinity)
+   * [Irreversibility](#irreversibility)
+        - [Autonomous Tume Evolution](#autonomous-time-evolution)
+        - [Entropy](#entropy)
+        - [Effective Field Theory](#effective-field-theory)
+        - [Thermodynamics, Decoupling, and Reductionism](#thermodynamics-decoupling-and-reductionism)
+        - [Arrow of Time](#arrow-of-time)
+        - [Causality](#causality)
+        - [Relation to Previous Work](#relation-to-previous-work)
+   * [On the Measurement Problem](#on-the-measurement-problem)
+   * [Approaches to Quantum Field Theory](#approaches-to-quantum-field-theory)
+        - [Particles vs. Fields](#particles-vs-fields)
+        - [Pragmatic Quantum Field Theory](#pragmatic-quantum-field-theory)
+        - [Main Problems of Quantum Field Theory](#main-problems-of-quantum-field-theory)
+        - [Rigorous Quantum Field Theory](#rigorous-quantum-field-theory)
+        - [Dissipative Quantum Field Theory](#dissipative-quantum-field-theory)
 
 ## Philosophical Contemplations
 
@@ -132,6 +147,8 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
 - "In the context of quantum field theory, a serious problem arises from Kant’s assertion that space and time are infinite. Infinity is an inherent philosophical problem, which we must address in the subsequent section to reveal the distinction between actual and potential infinity and the resulting fundamental importance assigned to limiting procedures."
 
 ### Infinity
+
+- 
 
 - Euclid: "The (set of all) prime numbers is more numerous than any assigned multitude of prime numbers."
 - Euclid avoids the term infinity: cf. https://farside.ph.utexas.edu/books/Euclid/Euclid.html
