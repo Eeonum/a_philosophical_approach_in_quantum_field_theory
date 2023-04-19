@@ -392,5 +392,4 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 
 ### Fock Space
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
+N=$\sum_{(=1}^{(}n_(
