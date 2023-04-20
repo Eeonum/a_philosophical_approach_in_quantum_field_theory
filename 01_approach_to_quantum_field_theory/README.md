@@ -392,4 +392,4 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 
 ### Fock Space
 
-N=$$\sum_{(=1}^{(}n_($$
+$$\psi=-\frac{1}{\varphi}$$
