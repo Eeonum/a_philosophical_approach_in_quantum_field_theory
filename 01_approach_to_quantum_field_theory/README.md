@@ -391,8 +391,5 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 - This book differs significantly from the standard textbooks on quantum field theory that have been successful for the last 50 years, such as Bjorken and Drell [78, 34], Itzykson and Zuber [79], Peskin and Schroeder [65], or Weinberg [68, 80, 81]. In his preface to The Conceptual Framework of Quantum Field Theory [30], Duncan criticizes the standard books for prioritizing a purely pragmatic approach that begins with a Lagrangian and computes a process to two loops, rather than addressing the essential conceptual issues. According to Duncan, if the objective is to achieve a profound and satisfying understanding of the most powerful, beautiful, and effective theoretical structure ever developed in the physical sciences, the pedagogical approach taken by the instructor must be significantly different from that of the "classics" listed above (including Peskin and Schroeder's book, which I added to the list). While Duncan's conceptual framework still covers a broad range of standard material, this book focuses on philosophical considerations for conceptual clarity. It may therefore be beneficial to use this book in conjunction with one of the more comprehensive classics.
 
 ### Fock Space
-$\sqrt{3x-1}+(1+x)^2$
-
-$\psi=-\frac{1}{\varphi}$
 
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
