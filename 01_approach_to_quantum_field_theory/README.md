@@ -412,9 +412,7 @@ Hello: $$\N=sum_{\nu=1}^\infty$
 
 $\infty$
 
-```math
-\N
-```
+$\(1+x)^2$
 
 
 
