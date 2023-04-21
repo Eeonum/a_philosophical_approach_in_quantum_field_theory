@@ -408,7 +408,7 @@ This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 To split <span>$</span>100 in half, we calculate $100/2$
 
-Hello: $N=\sum^{\infty }_{\nu =1} n_{\nu }$
+Hello: $N=\sum_{\infty }^{\nu =1} n_{\nu }$
 
 
 
