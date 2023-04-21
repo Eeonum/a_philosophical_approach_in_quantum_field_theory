@@ -392,24 +392,8 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 
 ### Fock Space
 
-**The Cauchy-Schwarz Inequality**
-
-$$\left(N=) \ left(\sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
-
-**Here is some math!**
-
-```math
-\sqrt{3}
-```
-
-This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
-
-To split <span>$</span>100 in half, we calculate $100/2$
-
-Hello: $$N=\sum_{\infty }^{\nu =1} n_{\nu }$$
-$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+- Every quantum mechanics textbook emphasizes that the complete separable Hilbert space is the appropriate framework for describing quantum phenomena. These spaces are complex vector spaces equipped with an inner product, which implies a norm and metric. Separability is ensured by the existence of a countable basis, while completeness guarantees that every Cauchy sequence in a Hilbert space has a limit within that space. These spaces offer tremendous mathematical analytical capabilities. More importantly, they address the philosophical concerns related to infinitatis (see Section 1.1.3) by limiting the dimension of Hilbert spaces to countable and allowing for limiting procedures.
+- HCO's assumption is that the potential quantum states of a single entity, which we will refer to as particles for simplicity, are denoted by the label $$\nu=1, 2, ...$$ We will refer to these entities as particles for ease of understanding, but it is important to note that the following construction applies to any type of quantum entity. We introduce two interchangeable representations for the states that represent a total of $$N=\sum_{\infty }^{\nu =1} n_{\nu }$$
 
 
 
