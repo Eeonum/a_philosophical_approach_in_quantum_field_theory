@@ -412,7 +412,7 @@ Hello: $$\N=sum_{\nu=1}^\infty$
 
 $\infty$
 
-$\(1+N)^2$
+$\N$
 
 
 
