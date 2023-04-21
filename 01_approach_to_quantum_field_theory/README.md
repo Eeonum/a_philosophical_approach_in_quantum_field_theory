@@ -394,7 +394,7 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 
 **The Cauchy-Schwarz Inequality**
 
-$$\left(N=)  left(\sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+$$\left(N=) \ left(\sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
@@ -408,8 +408,7 @@ This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
 
 To split <span>$</span>100 in half, we calculate $100/2$
 
-
-Hello: $N=\sum^{\infty }_{\nu =1} n_{\nu }$
+Hello: $\N=sum_{nu=1}^k$
 
 
 
