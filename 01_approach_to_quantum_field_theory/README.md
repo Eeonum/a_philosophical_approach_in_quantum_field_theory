@@ -412,7 +412,7 @@ Hello: $$\N=sum_{\nu=1}^\infty$
 
 $\infty$
 
-$\N$
+$\(1+N)$
 
 
 
