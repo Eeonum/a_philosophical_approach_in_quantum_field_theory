@@ -393,7 +393,7 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 ### Fock Space
 
 - Every quantum mechanics textbook emphasizes that the complete separable Hilbert space is the appropriate framework for describing quantum phenomena. These spaces are complex vector spaces equipped with an inner product, which implies a norm and metric. Separability is ensured by the existence of a countable basis, while completeness guarantees that every Cauchy sequence in a Hilbert space has a limit within that space. These spaces offer tremendous mathematical analytical capabilities. More importantly, they address the philosophical concerns related to infinitatis (see Section 1.1.3) by limiting the dimension of Hilbert spaces to countable and allowing for limiting procedures.
-- HCO's assumption is that the potential quantum states of a single entity, which we will refer to as particles for simplicity, are denoted by the label $$\nu=1, 2, ...$$ We will refer to these entities as particles for ease of understanding, but it is important to note that the following construction applies to any type of quantum entity. We introduce two interchangeable representations for the states that represent a total of $$N=\sum_{\infty }^{\nu =1} n_{\nu }$$
+- HCO's assumption is that the potential quantum states of a single entity, which we will refer to as particles for simplicity, are denoted by the label $\nu=1, 2, ...$ We will refer to these entities as particles for ease of understanding, but it is important to note that the following construction applies to any type of quantum entity. We introduce two interchangeable representations for the states that represent a total of $$N=\sum_{\infty }^{\nu =1} n_{\nu }$$
 
 
 
