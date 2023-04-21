@@ -414,7 +414,8 @@ $\infty$
 
 $\(1+N)$
 
-$N=\sum_{\nu =1}^{\infty }n_{\nu }$
+$N=\sum_{\nu=1}^{\infty}n_{\nu}$
+$N=\sum_{(\nu=1}^{\infty}n_{\nu]$ 
 
 
 
