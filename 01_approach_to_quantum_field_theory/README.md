@@ -416,7 +416,7 @@ $\(1+N)$
 
 $N=\sum_{\nu=1}^{\infty}n_{\nu}$
 $N=\sum_{\nu=1}^{\infty}n_{\nu}$ 
-$N=\sum_{k=1}^n
+$N=\sum_{k=1}^n$
 
 
 
