@@ -77,7 +77,7 @@ Finally, Eonum Inc agrees with Altman's quote: "Naked facts hardly exist at all:
   * According to Feynman, renormalization group theories are not the way to go with QFT. However, modern renormalization group theory might be the answer.
   * First Metaphysical Postulate: HCO says, "A mathematical image of nature must be rigorously consistent. Mathematical elegance is an integral part of any appealing image of nature."
   * The reliability and truth of theories rely on the "uniformity of nature": the succession of natural events is determined by immutable laws.
-  * HCO refers to Dworkin and states that "the intrinsic beauty and sublimity of the universe belong to the characteristic of a religion without a god and continues by saying that with or without (a personalized) god, these properties of the universe should be reflected in the elegance of the mathematical image. Eonum Inc believes that without an "unlimate Light", beauty seizes to exist.
+  * HCO refers to Dworkin and states that "the intrinsic beauty and sublimity of the universe belong to the characteristic of a religion without a god and continues by saying that with or without (a personalized) god, these properties of the universe should be reflected in the elegance of the mathematical image. Eonum Inc believes that without an "Ultimate Light", beauty ceases to exist.
   * HCO's 1st mathematical postulate covers several of the six metaphysical requirements formulated by Margenau:
   * (a) logical fertility ("natural science is joined with logic via mathematics")
   * (b) multiple connections between constructs
