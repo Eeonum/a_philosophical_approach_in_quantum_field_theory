@@ -101,14 +101,19 @@ I have to say as that it is amazing to see how many Chemical Engineers provided 
 
 ## Five METAPHYSICAL POSTULATES for quantum field theory
 
-(1) Images of Nature: A mathematical image of nature must be rigorously consistent; mathematical elegance is an integral part of any appealing image of nature.
+(1) Images of Nature: A mathematical image of nature must be rigorously consistent; mathematical elegance is an integral
+part of any appealing image of nature.
 
-(2) Space and time: Physical phenomena can be represented by theories IN space and time; they do not require theories OF space and time, so that space and time possess the status of prerequisites for physical theories.
+(2) Space and time: Physical phenomena can be represented by theories IN space and time; they do not require theories OF
+space and time, so that space and time possess the status of prerequisites for physical theories.
 
-(3) Infinities: All infinities are to be treated as potential infinities; the corresponding limitlessness is to be represented by mathematical limiting procedures; all numerous infinities are to be restricted to countable.
+(3) Infinities: All infinities are to be treated as potential infinities; the corresponding limitlessness is to be 
+represented by mathematical limiting procedures; all numerous infinities are to be restricted to countable.
 
-(4) Irreversibility: In quantum field theory, irreversible contributions to the fundamental evolution equations arise naturally and unavoidably.
+(4) Irreversibility: In quantum field theory, irreversible contributions to the fundamental evolution equations arise 
+naturally and unavoidably.
 
-(5) Reality: The well-entrenched fundamental structural entities of a validated mathematical image of nature are real, even if they cannot be observed directly.
+(5) Reality: The well-entrenched fundamental structural entities of a validated mathematical image of nature are real, 
+even if they cannot be observed directly.
 
 For more details clik [here](https://arxiv.org/abs/1509.09278)
