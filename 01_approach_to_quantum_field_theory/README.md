@@ -396,6 +396,9 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 - HCO's assumption is that the potential quantum states of a single entity, which HCO will refer to as particles for simplicity, are denoted by the label $\nu=1, 2, ...$ We will refer to these entities as particles for ease of understanding, but it is important to note that the following construction applies to any type of quantum entity. We introduce two interchangeable representations for the states that represent a total of $N=\sum_{\infty }^{\nu =1} n_{\nu }$ independent particles in two interchangeably used forms, 
 - $$\left|n_v\right\rangle=\left|n_1, n_2, \ldots\right\rangle,(1.1)$$
 - The expression |...〉 denotes vectors in Hilbert space, and the quantities $n_1$ and $n_2$ represent the number of particles in state 1 and state 2, ... respectively. The introduction of (1.1) does not require the labeling of particles; it only relies on counting. According to Teller [58], these quantum entities lack "primitive thisness," and physicists refer to their "indistinguishability" naively. In the case of bosons, each occupation number $n_v$ is a nonnegative integer, whereas for fermions, nν must be 0 or 1 because the Pauli principle prohibits double occupancy of states. The state represented by all vanishing occupation numbers, denoted by |0〉, is known as the vacuum state. Since the states (1.1) can be characterized by a countable set of integer numbers, the set of all states (1.1) is also countable. The basis vectors of the Fock space $\mathcal{F}$ are taken as the states of the form (1.1), which constitute a complex vector space.
+- Finally, HCO defines a canoncal inner product $s^{\text {can }}$ by knowing that the states(1.1) form an orthonormal basis of the Fock Space $\mathcal{F}$,
+- $$ s^{\operatorname{can}}\left(\left|n_{v^{\prime}}^{\prime}\right|,\left|n_v\right\rangle\right)=\prod_{v=1}^{\infty} \delta_{n_v n_v^{\prime}}, (1.2)$$
+- 
 
 
 
