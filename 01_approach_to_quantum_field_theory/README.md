@@ -397,8 +397,13 @@ HCO would like to emphasize that our discussion has not addressed relativistic c
 - $$\left|n_v\right\rangle=\left|n_1, n_2, \ldots\right\rangle,(1.1)$$
 - The expression |...〉 denotes vectors in Hilbert space, and the quantities $n_1$ and $n_2$ represent the number of particles in state 1 and state 2, ... respectively. The introduction of (1.1) does not require the labeling of particles; it only relies on counting. According to Teller [58], these quantum entities lack "primitive thisness," and physicists refer to their "indistinguishability" naively. In the case of bosons, each occupation number $n_v$ is a nonnegative integer, whereas for fermions, nν must be 0 or 1 because the Pauli principle prohibits double occupancy of states. The state represented by all vanishing occupation numbers, denoted by |0〉, is known as the vacuum state. Since the states (1.1) can be characterized by a countable set of integer numbers, the set of all states (1.1) is also countable. The basis vectors of the Fock space $\mathcal{F}$ are taken as the states of the form (1.1), which constitute a complex vector space.
 - Finally, HCO defines a canoncal inner product $s^{\text {can }}$ by knowing that the states(1.1) form an orthonormal basis of the Fock Space $\mathcal{F}$,
-- ![img_1.png](img_1.png)
-
+- ![img_1.png](img_1.png) (1.2)
+- By utilizing Kronecker's δ symbol, the inner product of any two vectors can be inferred through the antilinearity of the first argument and the linearity of the second argument.
+- $$ s^{\mathrm{can}}\left(c_1\left|\phi_1\right\rangle+c_2\left|\phi_2\right\rangle,|\psi\rangle\right)=c_1^* s^{\mathrm{can}}\left(\left|\phi_1\right\rangle,|\psi\rangle\right)+c_2^* s^{\mathrm{can}}\left(\left|\phi_2\right\rangle,|\psi\rangle\right), $$
+- ![img_2.png](img_2.png) (1.3)
+- ![img_3.png](img_3.png) (1.4)
+- The scan is defined as a sesquilinear form through the following equations, applicable to all |ϕ1〉, |ϕ2〉, |ϕ〉, |ψ1〉, |ψ2〉, and |ψ〉 belonging to F, and for all complex numbers c1, c2, where denotes the complex conjugate of cj. It is worth noting that the canonical inner product defined in (1.2) is positive definite.
+- 
 
 
 
