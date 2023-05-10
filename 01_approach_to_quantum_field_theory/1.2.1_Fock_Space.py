@@ -25,7 +25,7 @@ print(f(b))
 print(f_prime(b))
 
 ket_n_nu = Ket(n_nu)  # Eqn. (1.1)
-ket_m_nu = Ket(m_nu) # Eqn. (1.1)
+ket_m_nu = Ket(m_nu)  # Eqn. (1.1)
 print(ket_n_nu)
 print(ket_m_nu)
 #
@@ -34,7 +34,6 @@ print(ket_m_nu)
 # print(n_nu)
 
 from qutip import basis, qeye, Qobj
-
 
 # from qutip import inner
 
@@ -52,3 +51,70 @@ delta_nm = qeye(n).matrix_element(basis(n, 0), basis(m, 0))  # Kronecker delta
 print("Overlap of ket1 and ket2:", s_can)
 print("Kronecker delta for n and m:", delta_nm)
 
+# from qutip import create, destroy, commutator
+#
+# # Define the creation and annihilation operators
+# a = create(2)
+# ad = destroy(2)
+#
+# # Compute the commutator [a, ad]
+# comm = commutator(a, ad)
+# print(comm)
+#
+# def commutator(op1, op2):
+#     return op1 * op2 - op2 * op1
+#
+# from sympy import KroneckerDelta
+#
+# print(KroneckerDelta(2, 2))
+#
+# a_v = destroy(2)
+# a_v_prime = destroy(3)
+#
+# a_v_plus = create(2)
+# a_v_prime_plus = create(3)
+#
+# print(commutator(a_v, a_v)) # (1.9)
+
+# from sympy import symbols
+# from sympy.physics.quantum import Dagger
+#
+# # Define the creation and annihilation operators
+# b = symbols('b')
+# bd = Dagger(b)
+#
+#
+# def commutator(op1, op2):
+#     return op1 * op2 - op2 * op1
+#
+#
+# # Compute the commutator [b, bd]
+# print(commutator(b, bd))
+
+# from qiskit.quantum_info import Operator
+# from qiskit.opflow import PauliSumOp
+# from qiskit.opflow import commutator
+#
+# # Define the Pauli matrices
+# X = PauliSumOp.from_list([('X', 0, 1)])
+# Y = PauliSumOp.from_list([('Y', 0, 1)])
+# Z = PauliSumOp.from_list([('Z', 0, 1)])
+#
+# # Define the creation and annihilation operators
+# b = Operator([[0, 0], [1, 0]])
+# bd = b.adjoint()
+#
+# # Compute the commutator [b, bd]
+# print(commutator(b, bd))
+
+# import cirq
+#
+# # Define the creation and annihilation operators
+# b = cirq.PauliSum.from_pauli_strings([('X', 0), ('Y', 1)])
+# bd = b.adjoint()
+#
+# # Compute the commutator [b, bd]
+# commutator = b * bd - bd * b
+#
+# # Print the commutator
+# print(commutator)
